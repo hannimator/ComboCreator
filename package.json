@@ -1,0 +1,25 @@
+{
+  "name": "combocreator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannimator/ComboCreator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannimator/ComboCreator/issues"
+  },
+  "homepage": "https://github.com/hannimator/ComboCreator#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "devDependencies": {
+    "mongodb": "^3.2.5"
+  }
+}
